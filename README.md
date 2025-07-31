@@ -1,4 +1,7 @@
 # PowerQuery Data Cleaning Project
+![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-blue)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
 This project demonstrates how to clean and transform raw retail sales data using **Power Query Editor in Power BI**. The cleaned dataset is now prepared for further analysis or dashboard creation.
 
